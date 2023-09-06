@@ -1,3 +1,15 @@
+!
+! Title: EkoSartonoPornList
+! Description: Filter Porn List
+! Homepage: https://github.com/esartono/adguardhome
+! Last modified: 2023-07-30T08:06:22.909Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.22
+!
+!
+! Source name: EkoSartonoPornList
+! Source: hhttps://github.com/esartono/adguardhome-filters/edit/master/porn.txt
+!
 ||0006666.net^
 ||007angels.com^
 ||007milf.com^
